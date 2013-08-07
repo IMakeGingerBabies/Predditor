@@ -1,0 +1,18 @@
+{
+  "name": "Predditor",
+  "version": "0.0.0",
+  "description": "A Reddit API wrapper",
+  "main": "predditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/IMakeGingerBabies/Predditor.git"
+  },
+  "author": "Jesse Sheehan",
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/IMakeGingerBabies/Predditor/issues"
+  }
+}
