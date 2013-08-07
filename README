@@ -1,0 +1,1 @@
+Predditor is a simple wrapper for the Reddit API. Written in Javascript for NodeJS.
